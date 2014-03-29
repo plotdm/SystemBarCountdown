@@ -1,0 +1,10 @@
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\bin\Debug\SystemBarCountdown.exe.config
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\bin\Debug\SystemBarCountdown.exe
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\bin\Debug\SystemBarCountdown.pdb
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.CountdownSettingsForm.resources
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.Properties.Resources.resources
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.TimerDisplay.resources
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.csproj.GenerateResource.Cache
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.exe
+c:\users\dmitry\documents\visual studio 2013\Projects\SystemBarCountdown\SystemBarCountdown\obj\Debug\SystemBarCountdown.pdb
